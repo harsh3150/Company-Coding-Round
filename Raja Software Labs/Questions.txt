@@ -1,0 +1,19 @@
+
+Question 1:  A number is given find the nearest prime to it.
+
+
+Question 2:  A number is given find the smallest single digit number(i.e. from 0-9)in it.(No sorting algorithms is allowed)
+
+
+Question 3:  A string is given find if it has repetable characters in it, if it doesn't have any print true or else false. (Use collection)
+             Example: harsh 
+                        output: false(h is present 2 times)
+                      
+                      cat
+                        output: true( no repetable charcters)
+
+
+Question 4: A string is given return first non-repeated character in it. 
+             Example: harsh 
+                        output: a(h is present 2 times)
+                                 
