@@ -22,7 +22,7 @@ public class pattern{
 		}
 
 		String middle="*";
-		String middleArr[]=new String[n-2];
+		//String middleArr[]=new String[n-2];
 
 		for(int i=1;i<n;i++){
 			line1=" "+line1+"*";
