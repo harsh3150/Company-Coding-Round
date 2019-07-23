@@ -1,0 +1,46 @@
+Take an input N and print the pattern as shown in the below examples.
+Constraint: 0<N<999
+
+example:
+
+input:1
+output:
+*
+
+input:2
+output:
+ **
+**
+
+input:3
+output:
+  ***
+ * *
+***
+
+input:4
+output:
+   ****
+  *  *
+ *  *
+****
+
+input:5 
+output:
+    *****
+   *   *
+  *   *
+ *   *
+*****
+
+input:6
+output:
+     ******
+    *    *
+   *    *
+  *    *
+ *    *
+******
+
+
+
